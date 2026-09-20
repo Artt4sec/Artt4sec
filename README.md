@@ -1,26 +1,40 @@
+## Building in public
+
 <div align="center">
 
 ![banner](./banner.svg)
 
-<br>
+</div>
+
+## The point of view
+
+> Learning WebSec
+
+Webdesigner and Gfx Artist.
+
+*Small, useful work over vague claims.*
+
+## What I am shipping
+
+<div align="center">
 
 ![cards](./cards.svg)
 
 </div>
 
----
+## The stack
 
 <div align="center">
 
-`$ ls ~/stack/`
-
-<img src="https://skillicons.dev/icons?i=ps,figma,blender,html,css,js,nextjs,lua,mysql,linux,bash,git,vscode&perline=7" alt="stack" />
+![stack](./stack.svg)
 
 </div>
 
----
+## Start a conversation
 
 <div align="center">
+
+[GitHub](https://github.com/Artt4sec)
 
 <sub>// feito em araçatuba, brasil</sub>
 
