@@ -6,15 +6,6 @@
 
 </div>
 
-## The point of view
-
-> Learning WebSec
-
-Webdesigner and Gfx Artist.
-
-*Small, useful work over vague claims.*
-
-## What I am shipping
 
 <div align="center">
 
