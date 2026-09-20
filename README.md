@@ -1,68 +1,43 @@
-```
-┌─ artt4sec@github ── ~/profile ─────────────────┐
-│                                                │
-│   > artt                                       │
-│                                                │
-│   > gfx artist & webdesigner                   │
-│   > learning websec                            │
-│                                                │
-│   // araçatuba, são paulo — br                 │
-│                                                │
-└────────────────────────────────────────────────┘
-```
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
-<br>
+###
 
-### `$ cat ~/about.md`
+<div data-importer="activities" align="center" style="width: 100%">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
+  </a>
+</div>
 
-```
-> sobre mim.
-```
+###
 
-**desenho interfaces, crio identidade visual  
-e estudo como as coisas quebram**
+<br clear="both">
 
-<br>
+<div data-importer="techs" align="left">
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+</div>
 
-### `$ now`
-
-```
-> agora
-```
-
-`aprendendo websec` — owasp top 10, burp suite, análise de vulnerabilidade
-
-`construindo` — projetos web e ferramentas próprias
-
-`desenhando` — thumbnails, ícones e identidade visual
-
-<br>
-
-### `$ focus`
-
-```
-> meu foco
-```
-
-**design que comunica** e **código que aguenta**
-
-<br>
-
-### `$ ls ~/stack/`
-
-<p>
-  <img src="https://img.shields.io/badge/photoshop-0d1117?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" alt="Photoshop">
-  <img src="https://img.shields.io/badge/roblox-0d1117?style=for-the-badge&logo=roblox&logoColor=ffffff" alt="Roblox">
-  <img src="https://img.shields.io/badge/burp%20suite-0d1117?style=for-the-badge&logo=burpsuite&logoColor=FF6633" alt="Burp Suite">
-  <img src="https://img.shields.io/badge/linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux">
-</p>
-
-<br>
-
----
-
-<br>
-
-```
-$ echo "em construção — projetos chegando em breve"
-```
+###
