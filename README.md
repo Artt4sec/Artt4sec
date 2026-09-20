@@ -26,6 +26,6 @@
 
 [GitHub](https://github.com/Artt4sec)
 
-<sub>// feito em araçatuba, brasil</sub>
+<sub>// made in br</sub>
 
 </div>
