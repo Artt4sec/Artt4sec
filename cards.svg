@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="215" viewBox="0 0 900 215" role="img" aria-label="sobre mim, agora e foco">
+  <defs>
+    <clipPath id="cA"><rect x="0" y="0" width="548" height="215" rx="10"/></clipPath>
+    <clipPath id="cB"><rect x="568" y="0" width="332" height="100" rx="10"/></clipPath>
+    <clipPath id="cC"><rect x="568" y="115" width="332" height="100" rx="10"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#cA)">
+    <rect x="0" y="0" width="548" height="215" fill="#0d1117"/>
+    <rect x="0" y="0" width="548" height="30" fill="#161b22"/>
+    <circle cx="18" cy="15" r="4.5" fill="#ff5f57"/>
+    <circle cx="33" cy="15" r="4.5" fill="#febc2e"/>
+    <circle cx="48" cy="15" r="4.5" fill="#28c840"/>
+    <text x="274" y="19" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#6e7681">~/about.md</text>
+    <text x="34" y="68" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#6e7681">&gt; sobre mim.</text>
+    <text x="34" y="118" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="27" font-weight="700" fill="#f0f6fc">desenho interfaces</text>
+    <text x="34" y="155" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="27" font-weight="700" fill="#f0f6fc">e quebro sistemas</text>
+    <text x="34" y="188" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#484f58">// um pra pagar as contas, outro por esporte</text>
+  </g>
+  <rect x="0.5" y="0.5" width="547" height="214" rx="10" fill="none" stroke="#21262d"/>
+
+  <g clip-path="url(#cB)">
+    <rect x="568" y="0" width="332" height="100" fill="#0d1117"/>
+    <rect x="568" y="0" width="332" height="26" fill="#161b22"/>
+    <text x="580" y="17" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#6e7681">$ now</text>
+    <text x="586" y="50" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#6e7681">&gt; agora</text>
+    <text x="586" y="72" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" font-weight="700" fill="#f0f6fc">estudando websec</text>
+    <rect x="586" y="84" width="230" height="5" rx="2.5" fill="#21262d"/>
+    <rect x="586" y="84" width="122" height="5" rx="2.5" fill="#3fb950"/>
+    <text x="828" y="89" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#484f58">/ok</text>
+  </g>
+  <rect x="568.5" y="0.5" width="331" height="99" rx="10" fill="none" stroke="#21262d"/>
+
+  <g clip-path="url(#cC)">
+    <rect x="568" y="115" width="332" height="100" fill="#0d1117"/>
+    <rect x="568" y="115" width="332" height="26" fill="#161b22"/>
+    <text x="580" y="132" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#6e7681">$ focus</text>
+    <text x="586" y="165" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#6e7681">&gt; meu foco</text>
+    <text x="586" y="190" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#c9d1d9">design limpo, execução certa</text>
+  </g>
+  <rect x="568.5" y="115.5" width="331" height="99" rx="10" fill="none" stroke="#21262d"/>
+</svg>
